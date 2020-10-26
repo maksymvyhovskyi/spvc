@@ -1,0 +1,8 @@
+modeler-merge-marker
+.mendix-cache/*
+GitEnabler.mpr.lock
+*.launch
+deployment/*
+packages/*
+releases/*
+GitEnabler.mpr.bak
