@@ -6,3 +6,4 @@ deployment/*
 packages/*
 releases/*
 GitEnabler.mpr.bak
+project-settings.user.json
